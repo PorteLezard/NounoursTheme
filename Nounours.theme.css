@@ -1,0 +1,30 @@
+/**
+ * @name Nounours
+ * @author NounoursDev (based on Dark Matter by Tropical#8908, Hammock#3110)
+ * @version 1.0.0
+ * @description Un thème Discord chaleureux et cosy aux couleurs chocolat, caramel et crème, sur le thème des nounours.
+ * @source https://github.com/TON_PSEUDO_GITHUB/NounoursTheme
+*/
+
+/* 
+ * IMPORTANT POUR GITHUB :
+ * Remplace "TON_PSEUDO_GITHUB" ci-dessous par ton vrai pseudo GitHub
+ * après avoir activé GitHub Pages (ou utilise raw.githubusercontent.com / jsdelivr).
+ */
+@import url('https://TON_PSEUDO_GITHUB.github.io/NounoursTheme/src/base.css');
+
+/* Variables personnalisables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://TON_PSEUDO_GITHUB.github.io/NounoursTheme/assets/background.png');
+    --home-image: url('https://TON_PSEUDO_GITHUB.github.io/NounoursTheme/assets/home-icon.png');
+    
+    /* Palette Chocolat / Caramel / Crème */
+    --background-solid: #1f1410;
+    --background-solid-dark: #170e0b;
+    --background-solid-darker: #110a08;
+    --accent: 235, 155, 108;        /* Caramel doux (#eb9b6c) */
+    --accent-alt: 155, 76, 44;      /* Cannelle / Nounours (#9b4c2c) */
+    --black: 18, 10, 7;             /* Voile chocolat noir */
+    --white: 255, 244, 236;         /* Blanc crème lait (#fff4ec) */
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Nounours",
+    "description": "Un thème Discord chaleureux et cosy aux couleurs chocolat, caramel et crème, sur le thème des nounours.",
+    "version": "1.0.0",
+    "author": "NounoursDev",
+    "theme": "Nounours.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
